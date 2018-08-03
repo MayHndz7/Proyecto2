@@ -1,0 +1,6 @@
+<resources>
+<!--Contiene todos los string que se usan en el widget-->
+    <string name="app_name">AP3</string>
+    <string name="Info">AP3 es un Widget  de tipo Home Screen, no es una Aplicación normal. Al tocar el Reloj se dispara un Activity.</string>
+
+</resources>

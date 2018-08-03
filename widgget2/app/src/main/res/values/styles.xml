@@ -1,0 +1,10 @@
+<resources>
+<!--Incluye todos los temas que usa el widget -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+    </style>
+    <color name="fondo">#21af8a</color>
+
+
+</resources>

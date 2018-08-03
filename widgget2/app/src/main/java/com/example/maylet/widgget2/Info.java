@@ -1,0 +1,12 @@
+package com.example.maylet.widgget2;
+//esta clase nos sirve para pasar datos entre activitys
+import android.app.Activity;
+import android.os.Bundle;
+public class Info extends Activity{
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        // TODO Auto-generated method stub
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+    }
+}
